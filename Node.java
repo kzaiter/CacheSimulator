@@ -1,5 +1,3 @@
-package kzaCache;
-
 import java.util.Arrays;
 
 public class Node {
